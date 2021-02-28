@@ -1,0 +1,8 @@
+.shop_card-wrap{
+  display: flex;
+}
+
+.shop{
+  width: 70%;
+  margin-left: 10%;
+}

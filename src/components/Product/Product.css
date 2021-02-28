@@ -1,0 +1,24 @@
+.product-wrap {
+  display: flex;
+}
+
+.product-img {
+  margin-right: 20px;
+}
+
+.addToCartBtn{
+  background-color: gold;
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+  color: #333;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.addToCartBtn svg{
+  margin-right: 5px;
+}
+
+.productTitle{
+  color: darkslateblue;
+}
